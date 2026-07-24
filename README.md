@@ -9,7 +9,8 @@ Af first we need to connect ST-Link with STM32 Black Pill.
    
 2. Open Board Manager and search "STM" and download the package. Version 2.12.0 specificly
 
-3. Paste the code rover.ino from this github repository and start uploading. 
+3. Paste the code rover.ino from this github repository and start uploading.
+   NOTE: While compailing press the BOOT button until code is succesfully uploaded.
 
 
 
