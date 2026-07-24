@@ -12,11 +12,9 @@ Af first we need to connect ST-Link with STM32 Black Pill.
 3. Paste the code rover.ino from this github repository and start uploading.
    NOTE: While compailing press the BOOT button until code is succesfully uploaded.
 
-
-
-
 <img width="957" height="1037" alt="Screenshot from 2026-07-25 01-03-32" src="https://github.com/user-attachments/assets/59bc6d90-7953-4de3-a9c0-5229bb0a3530" />
 
 
+4. Use this circuit diagram
 
 <img width="1920" height="1080" alt="bot_circuit_diagram" src="https://github.com/user-attachments/assets/61efe70b-d371-4b28-bce5-4ad9c1b664af" />
