@@ -18,3 +18,5 @@ Af first we need to connect ST-Link with STM32 Black Pill.
 4. Use this circuit diagram
 
 <img width="1920" height="1080" alt="bot_circuit_diagram" src="https://github.com/user-attachments/assets/61efe70b-d371-4b28-bce5-4ad9c1b664af" />
+
+5. URDF Lunch command UBUNTU - ros2 launch urdf_tutorial display.launch.py model:=/home/rifat/ros2_ws/src/my_robot_description/urdf/my_robot.urdf
